@@ -11,7 +11,7 @@ print("data = ",data,",type =",type(data))
 data_int = int(input("masukan angka: "))
 print("data = ",data_int,",type =",type(data_int))
 
-##jika ingin mengambil data float maka:
+##ji   ka ingin mengambil data float maka:
 angka = float(input("masukan angka: "))
 print("data = ",angka,",type =",type(angka))
 
